@@ -25,7 +25,7 @@ I also looked into the problems faced during the remote work.I kept this dashboa
 
 
 ##### Dashboard
-![]()
+![](https://github.com/ifykendu/SurveyAnalysisProject/blob/main/Dashboard%201%20(1).png)
 
 
   
