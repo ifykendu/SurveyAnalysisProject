@@ -21,7 +21,7 @@ Data cleaning and manipulation are crucial steps in the data analysis process. T
 Quantitative analysis was limited in this project due to the scarcity of numeric values, making it primarily a qualitative analysis centered on textual data.
 Looking at my dashboard's "Remote Work During COVID" chart, it seems not many people were working remotely, possibly because it was a new concept. In the "Post-COVID Remote Work Preference" section, most people prefer working from home. The overall impact of remote work appears positive, but 400 people feel neutral about it, and I'm not sure why. They might have had prior experience with remote work before COVID.
 
-I also looked into the problems faced during the remote work.I kept this dashboard simple on purpose. I wanted to avoid adding too much information and complexity. I've highlighted a few key points to demonstrate my skills, and I'm eager to learn and get even better.
+I also looked into the problems faced during the remote work.I kept this dashboard simple on purpose. I wanted to avoid adding too much information and complexity.
 
 
 ##### Dashboard
